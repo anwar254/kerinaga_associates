@@ -51,8 +51,8 @@ include_once 'header.php';
                   This is a 1.75 billion estate comprising 113 no. 4 bedroom houses, Nursery school, and a commercial centre. It is located near paradise lost off Kiambu road .
                 </p>
                 <div class="k-more">
-                  <p class="k-capitalized"><b>client: </b> N/A</p>
-                  <p class="k-capitalized"><b>Architects: </b>N/A</p>
+                  <p class="k-capitalized"><b>client: </b> <i>N/A</i></p>
+                  <p class="k-capitalized"><b>Architects: </b><i>N/A</i></p>
                 </div>
               </div>
             </div>
@@ -72,8 +72,8 @@ include_once 'header.php';
                   Serviced flats and club house  with 4 no. villas on the the topmost floor on a steep site with poor soil conditions, along Limuru road, Nairobi.In addition to the villas, the top floor also has lap and reflective pools.
                 </p>
                 <div class="k-more">
-                  <p class="k-capitalized"><b>client: </b> N/A</p>
-                  <p class="k-capitalized"><b>Architects: </b><a href="https://www.spacematrix.com/" target="_blank">Spacematrix of singapore</a> and Sycum solutions of Nairobi</p>
+                  <p class="k-capitalized"><b>client: </b> <i>Edifice Ltd</i></p>
+                  <p class="k-capitalized"><b>Architects: </b><i><a href="https://www.spacematrix.com/" target="_blank">Spacematrix of singapore</a> and Sycum solutions of Nairobi</i></p>
                 </div>
               </div>
             </div>
@@ -93,8 +93,8 @@ include_once 'header.php';
                   20 no. executive flats  In a  ten  storey framed structure  with basement and ground floor parking as well as roof top swimming pool.
                 </p>
                 <div class="k-more">
-                  <p class="k-capitalized"><b>client: </b> N/A</p>
-                  <p class="k-capitalized"><b>Architects: </b>N/A</p>
+                  <p class="k-capitalized"><b>client: </b> <i>Jade holdings Ltd.</i></p>
+                  <p class="k-capitalized"><b>Architects: </b>Architects: </b><i>Constru Consultants</i></p>
                 </div>
               </div>
             </div>
@@ -116,6 +116,10 @@ include_once 'header.php';
                 <p>
                   5 No. villas on a steep site along Mbabane road, Lavington, nairobi.
                 </p>
+                <div class="k-more">
+                  <p class="k-capitalized"><b>client: </b> <i>Northern Trading</i></p>
+                  <p class="k-capitalized"><b>Architects: </b><i>Constru Consultants</i></p>
+                </div>
               </div>
             </div>
           </div>
@@ -133,6 +137,10 @@ include_once 'header.php';
                 <p>
                   These are 6 no. Townhouses on Chalbi drive Lavington for Kibuwa enterprise Limited.
                 </p>
+                <div class="k-more">
+                  <p class="k-capitalized"><b>client: </b> <i>Kibuwa enterprise Ltd.</i></p>
+                  <p class="k-capitalized"><b>Architects: </b><i>Rayplan architects.</i></p>
+                </div>
               </div>
             </div>
           </div>
@@ -150,6 +158,10 @@ include_once 'header.php';
                 <p>
                   It is a double storey modern mansion 1500M2 at Karen, Nairobi.
                 </p>
+                <div class="k-more">
+                  <p class="k-capitalized"><b>client: </b> <i>Argonaut holdings ltd</i></p>
+                  <p class="k-capitalized"><b>Architects: </b><i><a href="http://www.tejarchitects.co.ke/">Tej architects</a>b</i></p>
+                </div>
               </div>
             </div>
           </div>
@@ -170,6 +182,10 @@ include_once 'header.php';
                 <p>
                   Ten units of double storey mansions each with a floor area of 1000 square metres along Ushirika road, Karen, Nairobi.The complex includes a club house with a swimming pool as well as underground and highrise water storage tanks.
                 </p>
+                <div class="k-more">
+                  <p class="k-capitalized"><b>client: </b> <i>Qian Dalizu Co.</i></p>
+                  <p class="k-capitalized"><b>Architects: </b><i>Wokabi assocates architects</i></p>
+                </div>
               </div>
             </div>
           </div>
@@ -187,6 +203,10 @@ include_once 'header.php';
                 <p>
                   Southgate estate comprises of 510 three bed roomed units of flats in fifty one blocks with internal roads,foul water drainage and storm water drainage along Mombasa road, Mavoko Municipality.
                 </p>
+                <div class="k-more">
+                  <p class="k-capitalized"><b>client: </b> <i></i></p>
+                  <p class="k-capitalized"><b>Architects: </b><i>Designtech architects</i></p>
+                </div>
               </div>
             </div>
           </div>
@@ -204,6 +224,10 @@ include_once 'header.php';
                 <p>
                   These are six number town houses along Amboseli road, Lavington, Nairobi.
                 </p>
+                <div class="k-more">
+                  <p class="k-capitalized"><b>client: </b> <i>Ambassador Mwanyengela Ngali</i></p>
+                  <p class="k-capitalized"><b>Architects: </b><i><a href="http://www.mandassociates.pro/">Mwacharo and associates architects and project managers</a></i></p>
+                </div>
               </div>
             </div>
           </div>
@@ -224,6 +248,10 @@ include_once 'header.php';
                 <p>
                   An estate of 120 no. houses with 9 types of villas on a steep site off Waiyaki way, Nairobi.
                 </p>
+                <div class="k-more">
+                  <p class="k-capitalized"><b>client: </b> <i><a href="http://www.nssf.or.ke/">National Social Security Fund (NSSF)</a></i></p>
+                  <p class="k-capitalized"><b>Architects: </b><i>H. S. Nandhra architects</i></p>
+                </div>
               </div>
             </div>
           </div>
@@ -241,6 +269,10 @@ include_once 'header.php';
                 <p>
                   Three blocks of eight apartments each. To increase the number of parking spaces, the ground floor was “lifted” by a storey height to allow parking under the building. It also had communal swimming pool and changing rooms and is situated along Ndemi lane off Ngong road, Nairobi.
                 </p>
+                <div class="k-more">
+                  <p class="k-capitalized"><b>client: </b> <i></i></p>
+                  <p class="k-capitalized"><b>Architects: </b><i></i></p>
+                </div>
               </div>
             </div>
           </div>
@@ -258,6 +290,10 @@ include_once 'header.php';
                 <p>
                   50 no. Town houses with 3 type designs located in south 'B' Nairobi.
                 </p>
+                <div class="k-more">
+                  <p class="k-capitalized"><b>client: </b> <i>Prudential Building Society</i></p>
+                  <p class="k-capitalized"><b>Architects: </b><i><a href="http://www.aaki.co.ke/">Aaki consultants</a></i></p>
+                </div>
               </div>
             </div>
           </div>
@@ -278,6 +314,10 @@ include_once 'header.php';
                 <p>
                   130 no. bungalows with internal roads,storm water drainage,foul water drainage as well as water reticulation located along Kapsoya road, Eldoret.
                 </p>
+                <div class="k-more">
+                  <p class="k-capitalized"><b>client: Prudential Building Society</b> <i></i></p>
+                  <p class="k-capitalized"><b>Architects: </b><i><a href="http://www.aaki.co.ke/">H.S. Nandhra</a></i></p>
+                </div>
               </div>
             </div>
           </div>
@@ -295,6 +335,10 @@ include_once 'header.php';
                 <p>
                   N/A
                 </p>
+                <div class="k-more">
+                  <p class="k-capitalized"><b>client: </b> <i>Irungu.</i></p>
+                  <p class="k-capitalized"><b>Architects: </b><i><a href="http://www.aheadarchitects.com/">Ahead architects</a></i></p>
+                </div>
               </div>
             </div>
           </div>
@@ -312,6 +356,10 @@ include_once 'header.php';
                 <p>
                   N/A
                 </p>
+                <div class="k-more">
+                  <p class="k-capitalized"><b>client: </b> <i>William  Oduol.</i></p>
+                  <p class="k-capitalized"><b>Architects: </b><i><a href="http://www.aheadarchitects.com/">Ahead architects</a></i></p>
+                </div>
               </div>
             </div>
           </div>
@@ -332,6 +380,10 @@ include_once 'header.php';
                 <p>
                   A large double storey villa off Bogani road,Karen, Nairobi
                 </p>
+                <div class="k-more">
+                  <p class="k-capitalized"><b>client: </b> <i>J. Kimutati</i></p>
+                  <p class="k-capitalized"><b>Architects: </b><i><a href="http://www.aheadarchitects.com/">Ahead architects</a></i></p>
+                </div>
               </div>
             </div>
           </div>
@@ -349,6 +401,10 @@ include_once 'header.php';
                 <p>
                   N/A
                 </p>
+                <div class="k-more">
+                  <p class="k-capitalized"><b>client :</b> <i>Sameer Bhatti</i></p>
+                  <p class="k-capitalized"><b>Architects: </b><i><a href="http://www.block45.co.ke/">Block 45 architects</a></i></p>
+                </div>
               </div>
             </div>
           </div>
