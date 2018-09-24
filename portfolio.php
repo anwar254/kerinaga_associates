@@ -50,6 +50,10 @@ include_once 'header.php';
                 <p>
                   This is a 1.75 billion estate comprising 113 no. 4 bedroom houses, Nursery school, and a commercial centre. It is located near paradise lost off Kiambu road .
                 </p>
+                <div class="k-more">
+                  <p class="k-capitalized"><b>client: </b> N/A</p>
+                  <p class="k-capitalized"><b>Architects: </b>N/A</p>
+                </div>
               </div>
             </div>
           </div>
@@ -67,6 +71,10 @@ include_once 'header.php';
                 <p>
                   Serviced flats and club house  with 4 no. villas on the the topmost floor on a steep site with poor soil conditions, along Limuru road, Nairobi.In addition to the villas, the top floor also has lap and reflective pools.
                 </p>
+                <div class="k-more">
+                  <p class="k-capitalized"><b>client: </b> N/A</p>
+                  <p class="k-capitalized"><b>Architects: </b><a href="https://www.spacematrix.com/" target="_blank">Spacematrix of singapore</a> and Sycum solutions of Nairobi</p>
+                </div>
               </div>
             </div>
           </div>
@@ -84,6 +92,10 @@ include_once 'header.php';
                 <p>
                   20 no. executive flats  In a  ten  storey framed structure  with basement and ground floor parking as well as roof top swimming pool.
                 </p>
+                <div class="k-more">
+                  <p class="k-capitalized"><b>client: </b> N/A</p>
+                  <p class="k-capitalized"><b>Architects: </b>N/A</p>
+                </div>
               </div>
             </div>
           </div>
@@ -156,7 +168,7 @@ include_once 'header.php';
               <div class="k-title">
                 <h3>Karen Splendor homes</h3>
                 <p>
-                  5 No. villas on a steep site along Mbabane road, Lavington, nairobi.
+                  Ten units of double storey mansions each with a floor area of 1000 square metres along Ushirika road, Karen, Nairobi.The complex includes a club house with a swimming pool as well as underground and highrise water storage tanks.
                 </p>
               </div>
             </div>
@@ -171,9 +183,9 @@ include_once 'header.php';
             </div>
             <div class="k-bottom">
               <div class="k-title">
-                <h3>Proposed Residential development on Chalbi drive Lavington.</h3>
+                <h3>Southgate estate </h3>
                 <p>
-                  These are 6 no. Townhouses on Chalbi drive Lavington for Kibuwa enterprise Limited.
+                  Southgate estate comprises of 510 three bed roomed units of flats in fifty one blocks with internal roads,foul water drainage and storm water drainage along Mombasa road, Mavoko Municipality.
                 </p>
               </div>
             </div>
@@ -188,9 +200,154 @@ include_once 'header.php';
             </div>
             <div class="k-bottom">
               <div class="k-title">
-                <h3>Proposed Mansion at Karen, Nairobi</h3>
+                <h3>Maringo eco-homes </h3>
                 <p>
-                  It is a double storey modern mansion 1500M2 at Karen, Nairobi.
+                  These are six number town houses along Amboseli road, Lavington, Nairobi.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="columns">
+        <div class="column">
+          <div class="k-tile">
+            <div class="k-top">
+              <div class="k-images">
+                <img src="images\Construction-site.gif" alt="portfolio">
+              </div>
+            </div>
+            <div class="k-bottom">
+              <div class="k-title">
+                <h3>Mountain View estate</h3>
+                <p>
+                  An estate of 120 no. houses with 9 types of villas on a steep site off Waiyaki way, Nairobi.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <div class="k-tile">
+            <div class="k-top">
+              <div class="k-images">
+                <img src="images\construction.jpg" alt="portfolio">
+              </div>
+            </div>
+            <div class="k-bottom">
+              <div class="k-title">
+                <h3>Ndemi lane apartments </h3>
+                <p>
+                  Three blocks of eight apartments each. To increase the number of parking spaces, the ground floor was “lifted” by a storey height to allow parking under the building. It also had communal swimming pool and changing rooms and is situated along Ndemi lane off Ngong road, Nairobi.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <div class="k-tile">
+            <div class="k-top">
+              <div class="k-images">
+                <img src="images\20120905_053.jpg" alt="portfolio">
+              </div>
+            </div>
+            <div class="k-bottom">
+              <div class="k-title">
+                <h3>South B housing estate </h3>
+                <p>
+                  50 no. Town houses with 3 type designs located in south 'B' Nairobi.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="columns">
+        <div class="column">
+          <div class="k-tile">
+            <div class="k-top">
+              <div class="k-images">
+                <img src="images\Construction-site.gif" alt="portfolio">
+              </div>
+            </div>
+            <div class="k-bottom">
+              <div class="k-title">
+                <h3>Kapsoya,housing estate</h3>
+                <p>
+                  130 no. bungalows with internal roads,storm water drainage,foul water drainage as well as water reticulation located along Kapsoya road, Eldoret.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <div class="k-tile">
+            <div class="k-top">
+              <div class="k-images">
+                <img src="images\construction.jpg" alt="portfolio">
+              </div>
+            </div>
+            <div class="k-bottom">
+              <div class="k-title">
+                <h3>Residential house: Thome avenue, Nairobi </h3>
+                <p>
+                  N/A
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <div class="k-tile">
+            <div class="k-top">
+              <div class="k-images">
+                <img src="images\20120905_053.jpg" alt="portfolio">
+              </div>
+            </div>
+            <div class="k-bottom">
+              <div class="k-title">
+                <h3>Four Residential houses : Ushirika road, Karen. </h3>
+                <p>
+                  N/A
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="columns">
+        <div class="column">
+          <div class="k-tile">
+            <div class="k-top">
+              <div class="k-images">
+                <img src="images\Construction-site.gif" alt="portfolio">
+              </div>
+            </div>
+            <div class="k-bottom">
+              <div class="k-title">
+                <h3>Residential house </h3>
+                <p>
+                  A large double storey villa off Bogani road,Karen, Nairobi
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <div class="k-tile">
+            <div class="k-top">
+              <div class="k-images">
+                <img src="images\construction.jpg" alt="portfolio">
+              </div>
+            </div>
+            <div class="k-bottom">
+              <div class="k-title">
+                <h3>Mansion, Runda, Nairobi </h3>
+                <p>
+                  N/A
                 </p>
               </div>
             </div>

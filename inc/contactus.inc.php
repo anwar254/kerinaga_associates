@@ -39,7 +39,7 @@
           if (!$mail->send()) {
              $error = "Mailer Error: " . $mail->ErrorInfo;
               ?><script>alert('<?php echo $error ?>');</script><?php
-              header("Location: ../contactus.php?failed");
+              header("Location: ../contactus.php?failure");
 
           }
           else {

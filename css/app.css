@@ -109,6 +109,9 @@ a{
   cursor: pointer;
 
 }
+.k-more{
+  margin-top: 15px;
+}
 .k-row{
   clear: both;
   width: 100%;
