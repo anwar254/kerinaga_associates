@@ -1,0 +1,8 @@
+@media screen and (max-width: 1087px){
+  header .menu-bar .nav-links ul{
+    display: block!important;
+  }
+  header .menu-bar .nav-links ul li{
+    margin: 0!important;
+  }
+}
