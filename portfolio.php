@@ -41,7 +41,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-images">
-                <img src="images\Construction-site.gif" alt="portfolio">
+                <img src="images\portfolio/DSCN8596.jpg" alt="portfolio">
               </div>
             </div>
             <div class="k-bottom">
@@ -62,7 +62,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-images">
-                <img src="images\construction.jpg" alt="portfolio">
+                <img src="images\portfolio/butterfly_apartments.gif" alt="portfolio">
               </div>
             </div>
             <div class="k-bottom">
@@ -83,7 +83,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-images">
-                <img src="images\20120905_053.jpg" alt="portfolio">
+                <img src="images\portfolio/Parkands.jpg" alt="portfolio">
               </div>
             </div>
             <div class="k-bottom">
@@ -107,7 +107,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-images">
-                <img src="images\Construction-site.gif" alt="portfolio">
+                <img src="images\portfolio/applecross.jpg" alt="portfolio">
               </div>
             </div>
             <div class="k-bottom">
@@ -128,7 +128,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-images">
-                <img src="images\construction.jpg" alt="portfolio">
+                <img src="images\portfolio/72e3f188-79a1-465f-90ca-27262d769841.jpeg" alt="portfolio">
               </div>
             </div>
             <div class="k-bottom">
@@ -149,7 +149,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-images">
-                <img src="images\20120905_053.jpg" alt="portfolio">
+                <img src="images\portfolio/72e3f188-79a1-465f-90ca-27262d769841.jpeg" alt="portfolio">
               </div>
             </div>
             <div class="k-bottom">
@@ -173,7 +173,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-images">
-                <img src="images\Construction-site.gif" alt="portfolio">
+                <img src="images\portfolio/splendor1.jpg" alt="portfolio">
               </div>
             </div>
             <div class="k-bottom">
@@ -194,7 +194,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-images">
-                <img src="images\construction.jpg" alt="portfolio">
+                <img src="images\portfolio/72e3f188-79a1-465f-90ca-27262d769841.jpeg" alt="portfolio">
               </div>
             </div>
             <div class="k-bottom">
@@ -215,7 +215,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-images">
-                <img src="images\20120905_053.jpg" alt="portfolio">
+                <img src="images\portfolio/maringo_ech_home2.gif" alt="portfolio">
               </div>
             </div>
             <div class="k-bottom">
@@ -239,7 +239,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-images">
-                <img src="images\Construction-site.gif" alt="portfolio">
+                <img src="images\portfolio/mt_view1.gif" alt="portfolio">
               </div>
             </div>
             <div class="k-bottom">
@@ -260,7 +260,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-images">
-                <img src="images\construction.jpg" alt="portfolio">
+                <img src="images\portfolio/72e3f188-79a1-465f-90ca-27262d769841.jpeg" alt="portfolio">
               </div>
             </div>
             <div class="k-bottom">
@@ -281,7 +281,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-images">
-                <img src="images\20120905_053.jpg" alt="portfolio">
+                <img src="images\portfolio/prudential1.gif" alt="portfolio">
               </div>
             </div>
             <div class="k-bottom">
@@ -305,7 +305,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-images">
-                <img src="images\Construction-site.gif" alt="portfolio">
+                <img src="images\portfolio/72e3f188-79a1-465f-90ca-27262d769841.jpeg" alt="portfolio">
               </div>
             </div>
             <div class="k-bottom">
@@ -326,7 +326,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-images">
-                <img src="images\construction.jpg" alt="portfolio">
+                <img src="images\portfolio/Irungu_2.jpg" alt="portfolio">
               </div>
             </div>
             <div class="k-bottom">
@@ -347,7 +347,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-images">
-                <img src="images\20120905_053.jpg" alt="portfolio">
+                <img src="images\portfolio/oduol_2.jpg" alt="portfolio">
               </div>
             </div>
             <div class="k-bottom">
@@ -371,7 +371,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-images">
-                <img src="images\Construction-site.gif" alt="portfolio">
+                <img src="images\portfolio/oduol_2.jpg" alt="portfolio">
               </div>
             </div>
             <div class="k-bottom">
@@ -392,7 +392,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-images">
-                <img src="images\construction.jpg" alt="portfolio">
+                <img src="images\portfolio/sameer_bhatti.jpg" alt="portfolio">
               </div>
             </div>
             <div class="k-bottom">
