@@ -419,7 +419,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-images">
-                <img src="#" alt="portfolio">
+                <img src="images/portfolio/sergoit.jpg" alt="portfolio">
               </div>
             </div>
             <div class="k-bottom">
@@ -441,7 +441,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-images">
-                <img src="#" alt="portfolio">
+                <img src="images/portfolio/Juba office block.jpg" alt="portfolio">
               </div>
             </div>
             <div class="k-bottom">
@@ -459,7 +459,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-images">
-                <img src="#" alt="portfolio">
+                <img src="images/images.jpeg" alt="portfolio">
               </div>
             </div>
             <div class="k-bottom">
@@ -485,7 +485,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-images">
-                <img src="#" alt="portfolio">
+                <img src="images/220n0g0000007ys4r6BDA_R_550_412.jpg" alt="portfolio">
               </div>
             </div>
             <div class="k-bottom">
@@ -506,7 +506,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-images">
-                <img src="#" alt="portfolio">
+                <img src="images/portfolio/Ngara.jpg" alt="portfolio">
               </div>
             </div>
             <div class="k-bottom">
@@ -527,7 +527,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-images">
-                <img src="#" alt="portfolio">
+                <img src="images/portfolio/72e3f188-79a1-465f-90ca-27262d769841.jpeg" alt="portfolio">
               </div>
             </div>
             <div class="k-bottom">
@@ -547,7 +547,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-images">
-                <img src="#" alt="portfolio">
+                <img src="images/portfolio/amiran1.gif" alt="portfolio">
               </div>
             </div>
             <div class="k-bottom">
@@ -568,7 +568,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-images">
-                <img src="#" alt="portfolio">
+                <img src="images/portfolio/pipeline_mbsa.gif" alt="portfolio">
               </div>
             </div>
             <div class="k-bottom">
@@ -589,7 +589,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-images">
-                <img src="#" alt="portfolio">
+                <img src="images/portfolio/noc.gif" alt="portfolio">
               </div>
             </div>
             <div class="k-bottom">
@@ -613,7 +613,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-images">
-                <img src="#" alt="portfolio">
+                <img src="images/portfolio/elysee_plaza.gif" alt="portfolio">
               </div>
             </div>
             <div class="k-bottom">
@@ -756,41 +756,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-images">
-                <img src="#" alt="portfolio">
-              </div>
-            </div>
-            <div class="k-bottom">
-              <div class="k-title">
-                <h3>residengtial</h3>
-                <p>
-                  We offer innovative and economical design services, maintaining the latest state of the art design technology .We meet client’s needs on projects of all sizes, and smaller, special design projects
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="column">
-          <div class="k-tile">
-            <div class="k-top">
-              <div class="k-images">
-                <img src="#" alt="portfolio">
-              </div>
-            </div>
-            <div class="k-bottom">
-              <div class="k-title">
-                <h3>residengtial</h3>
-                <p>
-                  We offer innovative and economical design services, maintaining the latest state of the art design technology .We meet client’s needs on projects of all sizes, and smaller, special design projects
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="column">
-          <div class="k-tile">
-            <div class="k-top">
-              <div class="k-images">
-                <img src="#" alt="portfolio">
+                <img src="images/portfolio/Kahawa_hse_billboard.jpg" alt="portfolio">
               </div>
             </div>
             <div class="k-bottom">
