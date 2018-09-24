@@ -424,10 +424,15 @@ include_once 'header.php';
             </div>
             <div class="k-bottom">
               <div class="k-title">
-                <h3 class="k-capitalize">kencom sacco homes</h3>
+                <h3 class="k-capitalize">Sergoit golf and wildlife resort</h3>
                 <p>
-                  We offer innovative and economical design services, maintaining the latest state of the art design technology .We meet client’s needs on projects of all sizes, and smaller, special design projects
+                  This is an integrated development consisting of residential, commercial, recreation
+
+                  and hospitality facilities. It is located in North rift 15k from Eldoret Town
                 </p>
+                <div class="k-more">
+                  <p class="k-capitalized"><a href="http://www.sergoit.co.ke/">www.sergoit.co.ke</a></p>
+                </div>
               </div>
             </div>
           </div>
@@ -441,10 +446,11 @@ include_once 'header.php';
             </div>
             <div class="k-bottom">
               <div class="k-title">
-                <h3 class="k-capitalize">butterfly valley apartments</h3>
+                <h3 class="k-capitalize">Juba office block</h3>
                 <p>
-                  We offer innovative and economical design services, maintaining the latest state of the art design technology .We meet client’s needs on projects of all sizes, and smaller, special design projects
+                  This is a nine storey office block in Juba, South Sudan.
                 </p>
+                
               </div>
             </div>
           </div>
@@ -458,10 +464,168 @@ include_once 'header.php';
             </div>
             <div class="k-bottom">
               <div class="k-title">
-                <h3>residengtial</h3>
+                <h3>Standard group centre along Mombassa road, Nairobi</h3>
                 <p>
-                  We offer innovative and economical design services, maintaining the latest state of the art design technology .We meet client’s needs on projects of all sizes, and smaller, special design projects
+                  The standard group centre comprises of offices, newspaper printing press, a warehouse, studios, library and cafeteria. The printing press included an 830mm thick concrete slab “table” carrying printing machines weighing in excess of 1000 tonnes.
+
+                  <!-- Kering associates provided structural and civil engineering services which inv --><!-- olved:-structural design of office block, warehouse, machine rooms, studio, Library and elevated water storage tanks, as well as the Civil engineering design of roads and storm water drains. -->
                 </p>
+                <div class="k-more">
+                  <p class="k-capitalized"><b>client: </b> <i><a href="http://www.standardmedia.co.ke/">Standard Group Ltd.</a></i></p>
+                  <p class="k-capitalized"><b>Architects: </b><i><a href="http://www.tejarchitects.co.ke/">Tej Architects</a></i></p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="columns">
+        <div class="column">
+          <div class="k-tile">
+            <div class="k-top">
+              <div class="k-images">
+                <img src="#" alt="portfolio">
+              </div>
+            </div>
+            <div class="k-bottom">
+              <div class="k-title">
+                <h3 class="k-capitalize">Eastlands hotel</h3>
+                <p>
+                  A 135 room hotel 6 storeys high along kilimani road,off Ngong road,Nairobi.
+                </p>
+                <div class="k-more">
+                  <p class="k-capitalized"><b>client: </b> <i>The Eastlands Group</i></p>
+                  <p class="k-capitalized"><b>Architects: </b><i>Wokabi and associates architects</i></p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <div class="k-tile">
+            <div class="k-top">
+              <div class="k-images">
+                <img src="#" alt="portfolio">
+              </div>
+            </div>
+            <div class="k-bottom">
+              <div class="k-title">
+                <h3 class="k-capitalize">Ngara Commercial/Residential developement</h3>
+                <p>
+                  This is a mixed utility building with shops and stores at the ground floor and four floors of residential units. The soil conditions (black cotton soil) posed a challenge during the foundation design and this necessitated the use of a raft foundation
+                </p>
+                <div class="k-more">
+                  <p class="k-capitalized"><b>client: </b> <i>Mr. Michael Kiliku</i></p>
+                  <p class="k-capitalized"><b>Architects: </b><i>Rimba planning systems</i></p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <div class="k-tile">
+            <div class="k-top">
+              <div class="k-images">
+                <img src="#" alt="portfolio">
+              </div>
+            </div>
+            <div class="k-bottom">
+              <div class="k-title">
+                <h3>Proposed Mansion at Karen, Nairobi</h3>
+                <p>
+                  It is a double storey modern mansion 1500M2 at Karen, Nairobi.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="columns">
+        <div class="column">
+          <div class="k-tile">
+            <div class="k-top">
+              <div class="k-images">
+                <img src="#" alt="portfolio">
+              </div>
+            </div>
+            <div class="k-bottom">
+              <div class="k-title">
+                <h3 class="k-capitalize">Amiran office block and Godown</h3>
+                <p>
+                  Three storey office block and a warehouse on North Airport road, off Mombasa road, Nairobi
+                </p>
+                <div class="k-more">
+                  <p class="k-capitalized"><b>client: </b> <i><a href="http://www.amirankenya.com/">Amiran Kenya Ltd. </a></i></p>
+                  <p class="k-capitalized"><b>Architects: </b><i><a href="">Apexa architects</a></i></p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <div class="k-tile">
+            <div class="k-top">
+              <div class="k-images">
+                <img src="#" alt="portfolio">
+              </div>
+            </div>
+            <div class="k-bottom">
+              <div class="k-title">
+                <h3 class="k-capitalize">Pumping station no. 12 and 14</h3>
+                <p>
+                  A new pumping station and refurbishment of an existing station to create a new floor of timber decking supported by steel girders and structural steel trusses in Mombasa, Kenya.
+                </p>
+                <div class="k-more">
+                  <p class="k-capitalized"><b>client: </b> <i>Kenya pipeline</i></p>
+                  <p class="k-capitalized"><b>Architects: </b><i>H. S. Nandhra</i></p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <div class="k-tile">
+            <div class="k-top">
+              <div class="k-images">
+                <img src="#" alt="portfolio">
+              </div>
+            </div>
+            <div class="k-bottom">
+              <div class="k-title">
+                <h3>National Olympic Committee of Kenya commercial centre</h3>
+                <p>
+                  3 levels of Basement parking, 3 floors of parking above ground, 10 floors of office space and a rotating floor restaurant.
+                </p>
+                <div class="k-more">
+                  <p class="k-capitalized"><b>client: </b> <i><a href="https://www.olympic.org/">National Olympic Committee of Kenya (NOC-K)</a></i></p>
+                  <p class="k-capitalized"><b>Architects: </b><i><a href="http://www.aheadarchitects.com">Ahead architects</a></i></p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="columns">
+        <div class="column">
+          <div class="k-tile">
+            <div class="k-top">
+              <div class="k-images">
+                <img src="#" alt="portfolio">
+              </div>
+            </div>
+            <div class="k-bottom">
+              <div class="k-title">
+                <h3 class="k-capitalize">Elysee plaza – Adam’s Arcade, Nairobi</h3>
+                <p>
+                  A five storey modern office block with basement parking along Elgeyo Marakwet road, off Ngong road, Nairobi.
+                </p>
+                <div class="k-more">
+                  <p class="k-capitalized"><b>client: </b> <i><a href="http://www.ravasamdev.com/">Ravasam developement company Ltd.</a></i></p>
+                  <p class="k-capitalized"><b>Architects: </b><i><a href="http://www.mandassociates.pro/">Mwacharo and Associates architects and Project managers</a></i></p>
+                </div>
               </div>
             </div>
           </div>
@@ -481,10 +645,14 @@ include_once 'header.php';
             </div>
             <div class="k-bottom">
               <div class="k-title">
-                <h3>residengtial</h3>
+                <h3>Meru university college library</h3>
                 <p>
-                  We offer innovative and economical design services, maintaining the latest state of the art design technology .We meet client’s needs on projects of all sizes, and smaller, special design projects
+                  A double storey structure housing the Meru University college of science and Technology Library
                 </p>
+                <div class="k-more">
+                  <p class="k-capitalized"><b>client: </b><i><a href="http://www.mucst.ac.ke/">Meru University College of Science and Technology</a></i></p>
+                  <p><b>Architects: </b><i>Rimba planning systems</i></p>
+                </div>
               </div>
             </div>
           </div>
@@ -498,10 +666,14 @@ include_once 'header.php';
             </div>
             <div class="k-bottom">
               <div class="k-title">
-                <h3>residengtial</h3>
+                <h3>Good hope children’s home – Kona baridi, Kajiado distrct</h3>
                 <p>
-                  We offer innovative and economical design services, maintaining the latest state of the art design technology .We meet client’s needs on projects of all sizes, and smaller, special design projects
+                  A school, children’s home/dormitories, multi purpose hall/church and an administration block. it also includes waste water disposal system, internal roads and storm water drainage.
                 </p>
+                <div class="k-more">
+                  <p class="k-capitalized"><b>client: </b><i>Good hope childrens home</i></p>
+                  <p><b>Architects: </b><i>Apexa architects</i></p>
+                </div>
               </div>
             </div>
           </div>
@@ -515,10 +687,61 @@ include_once 'header.php';
             </div>
             <div class="k-bottom">
               <div class="k-title">
-                <h3>residengtial</h3>
+                <h3>AIC milimani – State house road, Nairobi</h3>
                 <p>
-                  We offer innovative and economical design services, maintaining the latest state of the art design technology .We meet client’s needs on projects of all sizes, and smaller, special design projects
+                  Africa Inland Church, Milimani is a 7500 seater church building with basement parking, suspended ground floor and balcony seating. The structure mainly consists of Reinforced concrete foundations, columns, beams and structural steel trusses
                 </p>
+                <div class="k-more">
+                  <p class="k-capitalized"><b>client: </b><i>AIC church Milimani</i></p>
+                  <p><b>Architects: </b><i>Designtech architects</i></p>
+                </div> 
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="columns">
+        <div class="column">
+          <div class="k-tile">
+            <div class="k-top">
+              <div class="k-images">
+                <img src="#" alt="portfolio">
+              </div>
+            </div>
+            <div class="k-bottom">
+              <div class="k-title">
+                <h3>International Committee of Red Cross (ICRC)-Keysaney (Mogadishu) Somalia Keysaney, Mogadishu</h3>
+                <p>
+                  An operation theatre in Keysaney (Mogadishu).A simple design which could take the least time possible to construct and a lot of ease to understand was the major concern for the client. The construction was to be done by a Somali contractor and his competence could not be ascertained because of the situation in Somalia.
+
+                  The proposed operating theatre had a roof slab where services like air conditioning units, water supply tanks were housed. The roof slab was covered by GCI roofing to aid in protection of the services incase of a grenade attack or shelling.
+                </p>
+                <div class="k-more">
+                  <p class="k-capitalized"><b>client: </b><i><a href="https://www.icrc.org/en/home">ICRC (kenya delegation)</a></i></p>
+                  <p><b>Architects: </b><i>Rimba planning systems</i></p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <div class="k-tile">
+            <div class="k-top">
+              <div class="k-images">
+                <img src="#" alt="portfolio">
+              </div>
+            </div>
+            <div class="k-bottom">
+              <div class="k-title">
+                <h3>Logistics centre Refurbishment</h3>
+                <p>
+                  This project involved the refurbishment of warehouses for ICRC logistics centre off Mombasa road. The main aspects of this project were; mezzanine floor offices, canopies and acoustic ceiling.
+                </p>
+                <div class="k-more">
+                  <p class="k-capitalized"><b>client: </b><i><a href="https://www.icrc.org/en/home">ICRC (kenya delegation)</a></i></p>
+                  <p><b>Architects: </b><i>Rimba planning systems</i></p>
+                </div>
               </div>
             </div>
           </div>
