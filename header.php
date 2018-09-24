@@ -38,7 +38,7 @@
 				                <li class="nav-link"><a href="services.php">Our Services</a></li>
 				                <li class="nav-link"><a href="portfolio.php">Project Portfolio</a></li>
 				                <li class="nav-link"><a href="downloads.php">Downloads</a></li>
-				                <li class="nav-link"><a href="#">fAQs</a></li>
+				                <li class="nav-link"><a href="faqs.php">fAQs</a></li>
 				                <li class="nav-link"><a href="contactus.php">contact Us</a></li>
 				              </ul>
 				            </div>
