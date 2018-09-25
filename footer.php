@@ -4,7 +4,7 @@
             <div class="column">
               <div class="section-title full-width">
                   <div class="heading">
-                      <h1 class="title">keringa</h1>
+                      <h1 class="title">kering</h1>
                       <div class="k-title-line"></div>
                   </div>
                 </div>
@@ -41,7 +41,7 @@
             <div class="column">
               <div class="section-title full-width">
                   <div class="heading">
-                      <h1 class="title k-headeing-font-size-small">contucts</h1>
+                      <h1 class="title k-headeing-font-size-small">contact us</h1>
                       <div class="k-title-line"></div>
                   </div>
                   <h1 class="k-headeing-font-size-small">Physical Location</h1>
