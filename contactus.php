@@ -64,7 +64,9 @@ include_once 'header.php';
         </form>
       </div>
       <div class="column">
-
+        <div class="k-map">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3988.791094861467!2d36.79173691475393!3d-1.3001793990516974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2ske!4v1537878909797" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+        </div>
       </div>
     </div>
   </div>
