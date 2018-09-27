@@ -8,16 +8,16 @@ include_once "header.php";
   </div>
 
   <div class="columns short-links">
-    <a href="pages/about.html" class="column short-link k-capitalized">
+    <a href="about.php" class="column short-link k-capitalized">
       Who Are We
     </a>
-    <a href="pages/services.html" class="column short-link k-capitalized">
+    <a href="services.php" class="column short-link k-capitalized">
       Our Specialties
     </a>
-    <a href="#" class="column short-link k-capitalized">
+    <a href="portfolio.php" class="column short-link k-capitalized">
       Some of our works
     </a>
-    <a href="#" class="column short-link k-capitalized">
+    <a href="contactus.php" class="column short-link k-capitalized">
       Drop us a line
     </a>
   </div>
@@ -66,7 +66,7 @@ We deal in structures of all types and sizes as well as related civil works (roa
                     <h3 class="k-text-center k-capitalized">standard media group</h3>
                 </div>
                 <p class="k-text-center">
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
+                  The featured structure is the Standard Group Modern building along Mombasa Road
                 </p>
   				</div>
   			</div>
@@ -83,7 +83,7 @@ We deal in structures of all types and sizes as well as related civil works (roa
                     <h3 class="k-text-center k-capitalized">eastlands hotel</h3>
                 </div>
                 <p class="k-text-center">
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
+                Eastland hotel, This a four star hotel at Kilimani road, off Ngong road, Nairobi.Its a five storey building consisting of 180 hotel rooms.Kering associates did the structural design of both the hotel block ,kitchen and dining room.
                 </p>
   				</div>
   			</div>

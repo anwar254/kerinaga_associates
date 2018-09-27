@@ -8,14 +8,11 @@
                       <div class="k-title-line"></div>
                   </div>
                 </div>
-                <p>The OFL allows the licensed fonts to be used, studied, modified and
-      redistributed freely as long as they are not sold by themselves. The
-      fonts, including any derivative works, can be bundled, embedded,
-      redistributed and/or sold with any software provided that any reserved
-      names are not used by derivative works. The fonts and derivatives,
-      however, cannot be released under any other type of license. The
-      requirement for fonts to remain under this license does not apply
-      to any document created using the fonts or their derivatives.</p>
+                <p>Kering associate engineers ltd is a fast growing civil and structural engineering firm based in Nairobi and offers a variety of consultancy Services.
+
+                Our engineers are registered members of the Engineers Registeration Board of Kenya (ERB), the Institution of Engineers of Kenya (IEK) and the Architectural Association of Kenya-engineer's chapter { AAK (E) }.
+
+                We deal in structures of all types and sizes as well as related civil works (roads and storm water drainage as well as foul water drainage). </p>
             </div>
 
             <div class="column">
