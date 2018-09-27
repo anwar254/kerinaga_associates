@@ -39,6 +39,7 @@
           if (!$mail->send()) {
              $error = "Mailer Error: " . $mail->ErrorInfo;
               ?><script>alert('<?php echo $error ?>');</script><?php
+              $_SESSION['failure'] = "message not sent";
               header("Location: ../contactus.php?failure");
 
           }

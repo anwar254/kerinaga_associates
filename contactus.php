@@ -1,12 +1,7 @@
 <?php
+session_start();
 include_once 'header.php';
 ?>
-<article class="message is-success">
-  <div class="message-header">
-    <p>Success</p>
-    <button class="delete" aria-label="delete"></button>
-  </div>
-</article>
 <section class="hero about-hero" id="about-hero">
   <div class="overlay"></div>
   <div class="heading hero-text-container">
@@ -18,6 +13,38 @@ include_once 'header.php';
     <button onclick="topFunction()" class="k-to-top" id="myBtn">top</button>
   </div>
 </div>
+<?php 
+  $baseUrl = "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
+
+  if (strpos($baseUrl, "failure")){
+    echo '
+    <article class="message is-danger">
+      <div class="message-header">
+        <p><?php $_SESSION["failure"] ?></p>
+        <button class="delete" aria-label="delete"></button>
+      </div>
+    </article>
+    ';
+  }elseif(strpos($baseUrl, "success")){
+    echo '
+    <article class="message is-success">
+      <div class="message-header">
+        <p><?php $_SESSION["success"]?></p>
+        <button class="delete" aria-label="delete"></button>
+      </div>
+    </article>
+    ';
+  }else{
+    echo '
+    <article class="message k-no-display">
+      <div class="message-header">
+        <p><?php $_SESSION["success"]?></p>
+        <button class="delete" aria-label="delete"></button>
+      </div>
+    </article>
+    ';
+  }
+?>
 <section class="section">
   <div class="container">
     <div class="section-title full-width">

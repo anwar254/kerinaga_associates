@@ -16,6 +16,9 @@ a{
 .k-text-center{
   text-align: center;
 }
+.k-no-display{
+  dispnay: none;
+}
 .k-tab{
   width: 60%;
   margin: 10px auto 20px auto;
