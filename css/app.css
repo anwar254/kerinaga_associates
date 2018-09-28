@@ -17,7 +17,8 @@ a{
   text-align: center;
 }
 .k-no-display{
-  dispnay: none;
+  dispnay: none!important;
+  visibility: hidden;
 }
 .k-tab{
   width: 60%;

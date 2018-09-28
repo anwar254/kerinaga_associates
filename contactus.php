@@ -20,7 +20,7 @@ include_once 'header.php';
     echo '
     <article class="message is-danger">
       <div class="message-header">
-        <p><?php $_SESSION["failure"] ?></p>
+        <p>Message was sent. We will get back to you as soon as posible</p>
         <button class="delete" aria-label="delete"></button>
       </div>
     </article>
@@ -29,7 +29,7 @@ include_once 'header.php';
     echo '
     <article class="message is-success">
       <div class="message-header">
-        <p><?php $_SESSION["success"]?></p>
+        <p>the message wass not sent. Please resend!</p>
         <button class="delete" aria-label="delete"></button>
       </div>
     </article>
@@ -38,7 +38,7 @@ include_once 'header.php';
     echo '
     <article class="message k-no-display">
       <div class="message-header">
-        <p><?php $_SESSION["success"]?></p>
+        <p></p>
         <button class="delete" aria-label="delete"></button>
       </div>
     </article>
