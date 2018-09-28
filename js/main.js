@@ -62,5 +62,3 @@ function topFunction() {
     }, 500);
 
 }
-
-console.log([document.body])

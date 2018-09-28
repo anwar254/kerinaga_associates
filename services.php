@@ -49,7 +49,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-image">
-                <img src="../images/civil-structural-design-services-500x500.jpg" alt="service-image" />
+                <!-- <img src="images/258s.jpg" alt="service-image" /> -->
               </div>
             </div>
             <div class="k-bottom">
@@ -66,7 +66,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-image">
-                <img src="../images/civil-structural-design-services-500x500.jpg" alt="service-image" />
+                <!-- <img src="../images/civil-structural-design-services-500x500.jpg" alt="service-image" /> -->
               </div>
             </div>
             <div class="k-bottom">
@@ -83,7 +83,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-image">
-                <img src="../images/civil-structural-design-services-500x500.jpg" alt="service-image" />
+                <!-- <img src="../images/civil-structural-design-services-500x500.jpg" alt="service-image" /> -->
               </div>
             </div>
             <div class="k-bottom">
@@ -105,7 +105,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-image">
-                <img src="../images/civil-structural-design-services-500x500.jpg" alt="service-image" />
+                <!-- <img src="../images/civil-structural-design-services-500x500.jpg" alt="service-image" /> -->
               </div>
             </div>
             <div class="k-bottom">
@@ -122,7 +122,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-image">
-                <img src="../images/civil-structural-design-services-500x500.jpg" alt="service-image" />
+                <!-- <img src="../images/civil-structural-design-services-500x500.jpg" alt="service-image" /> -->
               </div>
             </div>
             <div class="k-bottom">
@@ -139,7 +139,7 @@ include_once 'header.php';
           <div class="k-tile">
             <div class="k-top">
               <div class="k-image">
-                <img src="../images/civil-structural-design-services-500x500.jpg" alt="service-image" />
+                <!-- <img src="../images/civil-structural-design-services-500x500.jpg" alt="service-image" /> -->
               </div>
             </div>
             <div class="k-bottom">
