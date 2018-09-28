@@ -1,4 +1,5 @@
 <?php
+$title = "contact us";
 session_start();
 include_once 'header.php';
 ?>
@@ -13,15 +14,14 @@ include_once 'header.php';
     <button onclick="topFunction()" class="k-to-top" id="myBtn">top</button>
   </div>
 </div>
-<?php 
+<?php
   $baseUrl = "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
 
   if (strpos($baseUrl, "failure")){
     echo '
     <article class="message is-danger">
       <div class="message-header">
-        <p>the message was not sent. Please resend!</p>
-        <button class="delete" aria-label="delete"></button>
+        <p>The message was not sent. Please resend or check your internet connection</p>
       </div>
     </article>
     ';
@@ -29,14 +29,21 @@ include_once 'header.php';
     echo '
     <article class="message is-success">
       <div class="message-header">
-        <p>Message was sent. We will get back to you as soon as posible</p>
-        <button class="delete" aria-label="delete"></button>
+        <p>Message was sent. We will get back to you as soon as possible</p>
+      </div>
+    </article>
+    ';
+  }elseif(strpos($baseUrl, "fields_empty")){
+    echo '
+    <article class="message is-danger">
+      <div class="message-header">
+        <p>No field should be empty</p>
       </div>
     </article>
     ';
   }else{
     echo '
-    <article class="message k-no-display">
+    <article style = "display: none!important" class="message k-no-display">
       <div class="message-header">
         <p></p>
         <button class="delete" aria-label="delete"></button>

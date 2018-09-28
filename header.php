@@ -7,7 +7,15 @@
     <link rel="stylesheet" href="css/app.css" media="screen" title="no title" charset="utf-8">
     <link rel="stylesheet" href="css/master.css" media="screen" title="no title" charset="utf-8">
     <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" media="screen" title="no title" charset="utf-8"> -->
-    <title>kering</title>
+    <title>
+      <?php
+        if($title){
+          echo 'Kering - '.$title;
+        }else{
+          echo "Kering";
+        }
+      ?>
+    </title>
   </head>
   <body>
     <div class="main-wrapper">
