@@ -19,6 +19,7 @@
   </head>
   <body>
     <div class="main-wrapper">
+      <div id="top"></div>
     	<header id="header">
   			<div class="menu-bar">
   			  <div class="columns">

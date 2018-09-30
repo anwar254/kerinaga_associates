@@ -65,9 +65,35 @@
       </footer>
     </div>
     <script type="text/javascript" src="js/main.js"></script>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+    <script type="text/javascript" src="js/scroll_top.js"></script>
     <script>
       // Get the element with id="defaultOpen" and click on it
-      // document.getElementById("defaultOpen").click();
+
+      try{
+        document.getElementById("defaultOpen").click();
+      }
+      catch(ReferenceError){
+        document.getElementById("defaultOpen");
+      }
+    </script>
+    <script>
+      // When the user scrolls down 20px from the top of the document, show the button
+      window.onscroll = function() {scrollFunction()};
+
+      function scrollFunction() {
+          if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+              document.getElementById("myBtn").style.display = "block";
+          } else {
+              document.getElementById("myBtn").style.display = "none";
+          }
+      }
+
+      // When the user clicks on the button, scroll to the top of the document
+      function topFunction() {
+        document.body.scrollTop = 0 + "px"; // For Safari
+        document.documentElement.scrollTop = 0 + "px"; // For Chrome, Firefox, IE and Opera
+      }
     </script>
   </body>
 </html>

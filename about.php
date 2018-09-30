@@ -1,4 +1,5 @@
 <?php
+$title = "About us";
 include_once "header.php";
 ?>
 <section class="hero about-hero" id="about-hero">

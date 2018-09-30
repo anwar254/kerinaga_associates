@@ -21,7 +21,7 @@ include_once 'header.php';
     echo '
     <article class="message is-danger">
       <div class="message-header">
-        <p>The message was not sent. Please resend or check your internet connection</p>
+        <p>The message was not sent. Please fill again and resend or check your internet connection</p>
       </div>
     </article>
     ';

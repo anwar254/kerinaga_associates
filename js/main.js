@@ -35,30 +35,3 @@ const humMenu = document.querySelector('#mobile-menu');
 humMenu.onclick = function(){
   myFunction();
 }
-
-// scroll to top
-window.onscroll = function() {scrollFunction()};
-
-function scrollFunction() {
-    if (document.body.scrollTop > 90 || document.documentElement.scrollTop > 90) {
-        document.getElementById("myBtn").style.display = "block";
-        document.getElementById("myBtn").style.transition = "500ms 1s display ease-in ";
-    } else {
-        document.getElementById("myBtn").style.display = "none";
-    }
-}
-
-// When the user clicks on the button, scroll to the top of the document
-function topFunction() {
-    const setInt = setInterval(()=>{
-        if (document.body.scrollTop > 0 || document.documentElement.scrollTop > 0) {
-            clearInterval(setInt);
-        }else{
-            let scroll = window.scrollY;
-            scroll -= 1;
-            document.body.scrollTop = scroll + "px";
-            document.documentElement.scrollTop = scroll + "px";
-        }
-    }, 500);
-
-}

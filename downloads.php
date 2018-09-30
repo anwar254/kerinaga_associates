@@ -1,5 +1,6 @@
-<?php  
-	include_once 'header.php';
+<?php
+$title = "Downloads";  
+include_once 'header.php';
 ?>
 <section class="hero about-hero" id="about-hero">
   <div class="overlay"></div>
