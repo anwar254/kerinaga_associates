@@ -66,7 +66,6 @@
     </div>
     <script type="text/javascript" src="js/main.js"></script>
     <script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
-    <script type="text/javascript" src="js/scroll_top.js"></script>
     <script>
       // Get the element with id="defaultOpen" and click on it
 

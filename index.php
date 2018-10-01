@@ -96,7 +96,7 @@ We deal in structures of all types and sizes as well as related civil works (roa
 	<div class="container">
 		<div class="columns">
 			<div class="column">
-				<div class="section-title full-width">
+				<div class="section-title limit-cont full-width">
             <div class="heading">
               <h1 class="title k-headeing-font-size-small">structural engineering. what a structural engineer does</h1>
               <div class="k-title-line"></div>
@@ -105,26 +105,13 @@ We deal in structures of all types and sizes as well as related civil works (roa
             	Structural engineers analyze, design, plan, and research structural components and structural systems to achieve design goals and ensure the safety and comfort of users or occupants. Structural engineers take into account mainly safety, technical, economic and environmental concerns, but they may also consider aesthetic and social factors.
             </p>
             &nbsp;
-            <p>
-            	Typical structures designed by a structural engineer in this case Kering Associate Engineers limited include buildings, towers, stadia and bridges. Other structures such as oil rigs, space satellites, aircraft and ships may also be designed by a structural engineer.
-            </p>
-            &nbsp;
-            <p>
-              In the construction industry, structural engineers work closely with architects, civil engineers, mechanical engineers, electrical engineers, quantity surveyors, and construction managers.
-
-
-
-              Structural engineers ensure that buildings and bridges are built to be strong enough and stable enough to resist all appropriate structural loads (e.g., gravity, wind, snow, rain, seismic (earthquake), earth pressure, temperature, and traffic) in order to prevent or reduce loss of life or injury. They also design structures to be stiff enough to not deflect or vibrate beyond acceptable limits.
-            </p>
-            &nbsp;
-
-            <div class="more-link">
-              <a href="#">Read more</a>
-            </div>
       	</div>
+        <div class="more-link">
+          <a href="#">Read more</a>
+        </div>
 			</div>
 			<div class="column">
-				<div class="section-title full-width">
+				<div class="section-title limit-cont full-width">
             <div class="heading">
               <h1 class="title k-headeing-font-size-small">Buying a home? a structural integrity inspection is a necessity</h1>
               <div class="k-title-line"></div>
@@ -134,37 +121,38 @@ We deal in structures of all types and sizes as well as related civil works (roa
             </p>
             &nbsp;
             <p>
-            	If you're applying for a home loan, chances that an inspection report is required by your lender. But even if you are paying cash for your home and have no contractual requirement to  provide an integrity report, not ordering one could be a  mistake.
+            	If you're applying for a home loan, chances that an inspection report is required by your lender...
             </p>
             &nbsp;
-            <p>
-            	A qualified  engineer as one from Kering Associate Engineers will check the condition of foundations, bearing walls/columns, slabs, and roofs of the structure, cellar (for unwanted water among other things), and the existence of a waste water disposal system and myriad of other details as well as possible termite infestation.
-            </p>
-            &nbsp;
-            <p>
-              The latter is very important; a seemingly solid house can be weakened structurally, sometimes beyond repair, if a termite problem is not detected and resolved early.
-            </p>
-            &nbsp;
-            <div class="more-link">
-              <a href="#">Read more</a>
-            </div>
       	</div>
+        <div class="more-link">
+          <a href="sructural_integrity.php">Read more</a>
+        </div>
 			</div>
 		</div>
   </div>
 </section>
 
-<section class="section grey">
+<section class="section grey" style="clear: both;">
 	<div class="container">
 		<div class="section-title">
-        <div class="heading">
-          <h1 class="title">testimonials</h1>
-          <div class="k-title-line"></div>
-          <p>
-            here are some few words from a our trusted customers
-          </p>
-        </div>
-    	</div>
+      <div class="heading">
+        <h1 class="title">testimonials</h1>
+        <div class="k-title-line"></div>
+        <p>
+          here are some few words from a our trusted customers
+        </p>
+      </div>
+  	</div>
+    <div class="section-info" style="width: 50%; margin: 0 auto;">
+      <div class="section-avatar" style="float: left;"></div>
+      <div class="section-name">
+        <h4 style="font-weight: bold;" class="k-capitalized">anwar magara</h4>
+      </div>
+      <div class="section-text">
+        <p>this is just a simple text to display proud customer testimonies</p>
+      </div>
+    </div>
 	</div>
 </section>
 <?php

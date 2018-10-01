@@ -1,5 +1,5 @@
 <?php
-$title = "contact us";
+$title = "Contact Us";
 session_start();
 include_once 'header.php';
 ?>

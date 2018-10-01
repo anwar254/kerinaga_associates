@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="css/mediaquery.css" media="screen" title="no title" charset="utf-8">
     <link rel="stylesheet" href="css/app.css" media="screen" title="no title" charset="utf-8">
     <link rel="stylesheet" href="css/master.css" media="screen" title="no title" charset="utf-8">
-    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" media="screen" title="no title" charset="utf-8"> -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
     <title>
       <?php
         if($title){
@@ -29,7 +29,7 @@
 				          <div class="navbar-start">
 				            <div class="navbar-brand">
 				              <a class="navbar-item" href="index.php">
-				                <img src="#" alt="keriang branding" width="112" height="28">
+				                <img src="images/kering_branding.png" alt="keriang branding" width="112" style="min-height: 4.75rem">
 				              </a>
 
 				              <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" id="mobile-menu">

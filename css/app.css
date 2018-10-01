@@ -65,6 +65,10 @@ a{
   margin: 20px auto;
   padding: 10px;
 }
+.section-info{
+  width: 50%;
+  margin: 0 auto;
+}
 /* .k-inputs{
   margin-bottom: 20px;
 } */
