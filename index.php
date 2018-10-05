@@ -107,7 +107,7 @@ We deal in structures of all types and sizes as well as related civil works (roa
             &nbsp;
       	</div>
         <div class="more-link">
-          <a href="#">Read more</a>
+          <a href="sructural_engineer.php">Read more</a>
         </div>
 			</div>
 			<div class="column">
