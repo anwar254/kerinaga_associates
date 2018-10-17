@@ -30,35 +30,31 @@
   					<div class="column">
   						<nav class="navbar nav-links">
   							<div class="container">
-				          <div class="navbar-start">
-				            <div class="navbar-brand">
-				              <a class="navbar-item" href="index.php">
-				                <img src="images/kering_branding.png" alt="keriang branding" width="112" style="min-height: 4.75rem">
-				              </a>
-
-				              <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" id="mobile-menu">
-				                <span aria-hidden="true"></span>
-				                <span aria-hidden="true"></span>
-				                <span aria-hidden="true"></span>
-				              </a>
-				            </div>
-				          </div>
-				          <div class="navbar-end">
-				            <div class="navbar-menu" id="menu">
-				              <ul>
-				                <li class="nav-link"><a href="index.php">Home</a></li>
-				                <li class="nav-link"><a href="about.php">About Us</a></li>
-				                <li class="nav-link"><a href="services.php">Our Services</a></li>
-				                <li class="nav-link"><a href="portfolio.php">Project Portfolio</a></li>
-				                <li class="nav-link"><a href="downloads.php">Downloads</a></li>
-				                <li class="nav-link"><a href="faqs.php">fAQs</a></li>
-				                <li class="nav-link"><a href="contactus.php">contact Us</a></li>
-				              </ul>
-				            </div>
-				          </div>
+				          <div class="navbar-brand">
+                    <a href="#" class="navbar-item">
+                      <img src="images/logo.png" alt="kering associates logo">
+                    </a>
+                    <span class="navbar-burger burger" data-target="navMenu"> 
+                      <span aria-hidden="true"></span>
+                      <span aria-hidden="true"></span>
+                      <span aria-hidden="true"></span>
+                    </span>
+                  </div>
+                  <div class="navbar-menu" id="navbarMenu">
+                    <div class="navbar-end">
+                      <a href="index.php" class="navbar-item">Home</a>
+                      <a href="about.php" class="navbar-item">About Us</a>
+                      <a href="services.php" class="navbar-item">Our Services</a>
+                      <a href="portfolio.php" class="navbar-item">Project Portfolio</a>
+                      <a href="downloads.php" class="navbar-item">Doenloads</a>
+                      <a href="faqs.php" class="navbar-item">FAQs</a>
+                      <a href="contactus.php" class="navbar-item">Contact Us</a>
+                    </div>
+                  </div>
   							</div>
   						</nav>
   					</div>
   			  </div>
   			</nav>
   		</header>
+ 
